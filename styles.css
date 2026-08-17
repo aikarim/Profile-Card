@@ -39,3 +39,8 @@ hr{
   border: solid rgb(81, 13, 81) 2px;
    
 }
+.portfolio-link{
+    font-weight: bold;
+    border: solid rgb(81, 13, 81) 2px;
+    padding: 2px;
+}
